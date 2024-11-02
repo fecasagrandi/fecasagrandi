@@ -1,5 +1,10 @@
 ## Olá, sou Felipe Casagrandi 👋
 
+<div style="display: flex; flex-direction: row;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=radical" alt="Estatísticas do GitHub Felipe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
