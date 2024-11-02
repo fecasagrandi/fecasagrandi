@@ -3,8 +3,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; flex-direction: row;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=radical&card_width=450" alt="Estatísticas do GitHub Felipe" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=radical&card_width=450" alt="Linguagens mais usadas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=radical" alt="Estatísticas do GitHub Felipe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 <div style="display: inline_block"><br>
