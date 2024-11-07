@@ -3,8 +3,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; flex-direction: row;">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark" alt="Estatísticas do GitHub Felipe" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300" alt="Linguagens mais usadas" />
+
 </div>
 
 ## 🔥 Ofensiva de Contribuições no GitHub
