@@ -1,4 +1,4 @@
-## Olá, sou Felipe Casagrandi 👋
+## Bem vindo ao meu perfil, sou Felipe Casagrandi 👋
 
 ## 📊 Estatísticas do GitHub
 
