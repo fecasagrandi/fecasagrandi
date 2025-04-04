@@ -1,15 +1,15 @@
 ## Bem vindo ao meu perfil, sou Felipe Casagrandi 👋
 
-## 📊 Estatísticas do GitHub
+## 🌚 Estatísticas do GitHub
 
 <div style="display: flex; flex-direction: row;">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark" alt="Estatísticas do GitHub Felipe" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300" alt="Linguagens mais usadas" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&v=1" alt="Estatísticas do GitHub Felipe" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300&v=1" alt="Linguagens mais usadas" />
 </div>
 
 ## 🔥 Ofensiva de Contribuições no GitHub  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&v=1)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
