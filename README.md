@@ -1,45 +1,51 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+## 👋 Bem-vindo ao meu perfil, sou Felipe Casagrandi
 
-Sou o Felipe, programador e estudante de Análise e Desenvolvimento de Sistemas. Aqui você encontrará projetos que refletem meu comprometimento com a construção de soluções sólidas, escaláveis e bem estruturadas, sempre com respeito às boas práticas da programação.
-
-## 💼 Sobre Mim
-
-- 🎓 Estudante dedicado de Análise e Desenvolvimento de Sistemas
-- 🛠️ Buscando sempre aprimorar meu conhecimento em desenvolvimento web, automações e sistemas performáticos
-- ⚙️ Adepto de abordagens tradicionais e organização eficiente de código
-
-## 🧰 Tecnologias e Ferramentas que Utilizo
-
-### Linguagens
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks e Bibliotecas
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-### Automação
-- ![n8n](https://img.shields.io/badge/n8n-ff6d00?style=flat&logo=n8n&logoColor=white)
-
-### Infraestrutura
-- ![VPS](https://img.shields.io/badge/VPS-007BFF?style=flat&logo=linux&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-## 🔧 Projetos em Destaque
-
-- **Kaizen**: Sistema web de gestão de hábitos com gamificação e IA. Frontend em React, backend tradicional com API REST e MySQL.  
-- **TaskXP**: Gerenciador de tarefas gamificado com XP e ranking de amigos.  
-- **Sistema de Campanhas**: Aplicação de controle de campanhas com métricas, usuários, plataformas e mais, integrando banco MySQL e automações com n8n.
-
-## 📫 Como me encontrar
-
-- 🌐 [felipecasagrandi.online](https://felipecasagrandi.online)
-- 📧 felipe@email.com (coloque seu email real)
-- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com)
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Gosto de desenvolver soluções robustas, práticas e eficientes, respeitando os fundamentos da programação tradicional e as boas práticas que sempre funcionaram.
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
+## 🧠 Tecnologias que utilizo no dia a dia
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Felipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Felipe-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Felipe-N8N" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-icon.svg">
+  <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Felipe-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div style="display: flex; flex-direction: row;">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark" alt="Estatísticas do GitHub Felipe" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300" alt="Linguagens mais usadas" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&v=1" alt="Estatísticas do GitHub Felipe" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300&v=1" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+## 🔥 Ofensiva de Contribuições no GitHub  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&v=1)
+
+---
+
+## 📫 Contato
+
+<div> 
+  <a href="https://www.instagram.com/felipecasagrandi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/snowcasagrandi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:fcasagrandi38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
