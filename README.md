@@ -71,19 +71,6 @@
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
 </div>
 
-## 💻 Experience & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Advanced-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Integration-Growing-FF6F00?style=for-the-badge" />
-</div>
-
-- **Full Stack Web Development** focusing on React interfaces and Node.js APIs
-- **Gamified Systems** and user-oriented architectures
-- **AI Integration** (DeepSeek) for process optimization
-- **Workflow Automation** with n8n and custom solutions
-
 ## 🔗 Connect With Me
 
 <div align="center">
