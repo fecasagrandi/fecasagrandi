@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Felipe Moreira Casagrandi</h1>
+  
   <h3>Full Stack Developer | Systems Analysis Student</h3>
   
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -62,7 +63,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&hide_border=true&theme=github_dark" /> </div>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
 
 ## 🔗 Connect With Me
 
