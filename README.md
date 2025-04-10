@@ -60,6 +60,17 @@
   🎮 Reward System | 🤖 AI Assistant | 📊 Performance Analytics
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
+</div>
+
 ## 💻 Experience & Skills
 
 <div align="center">
@@ -89,8 +100,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
----
 
 <div align="center">
   <sub>💻 Clean code. Efficient solutions. User-focused. 🚀</sub>
