@@ -1,77 +1,94 @@
-Felipe Moreira Casagrandi
-Desenvolvedor Full Stack | Estudante de ADS | Entusiasta de Tecnologia
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <h1>Felipe Moreira Casagrandi</h1>
+  <h3>Desenvolvedor Full Stack | Estudante de ADS</h3>
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 </div>
-👨‍💻 Sobre Mim
-Olá! Sou um desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas apaixonado por criar soluções que impactam positivamente a vida das pessoas. Minha jornada tecnológica é guiada pela busca constante de conhecimento e pela aplicação de práticas que elevam a qualidade do código e a experiência do usuário.
 
-"Construir com propósito, aprender todos os dias e evoluir sempre."
+> *"Evoluir sempre. Construir com propósito. Aprender todos os dias."*
 
-Atualmente, concentro meus esforços no desenvolvimento web fullstack, com especial atenção ao frontend utilizando React e Next.js, enquanto mantenho uma base sólida em backend com Node.js e bancos de dados relacionais. Acredito no poder da arquitetura bem estruturada e no código limpo como pilares fundamentais para soluções robustas e escaláveis.
-🚀 Tecnologias & Habilidades
-<div style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-Áreas de Foco
+## ⚡ Tecnologias
 
-🌐 Frontend: React.js, Next.js, HTML5/CSS3
-🔧 Backend: Node.js, Express
-🗄️ Bancos de Dados: MySQL, PostgreSQL
-🧩 Arquitetura: MVC, MVVM
-🔒 Segurança: JWT Authentication
-🐳 DevOps: Docker, VPS Linux (Ubuntu Server)
-🤖 Automação: n8n, Integrações API
-🧠 IA: Implementações com DeepSeek e outras ferramentas
-🔄 Metodologias: Kanban, Desenvolvimento Ágil
-
-💻 Projetos em Destaque
-Kaizen - Produtividade Gamificada com IA
-Meu projeto de TCC foca em revolucionar a produtividade pessoal através da gamificação e inteligência artificial.
-O Kaizen combina:
-
-Sistema de recompensas baseado em objetivos
-Assistente inteligente para otimização de tarefas
-Interface intuitiva com elementos de gamificação
-Análises de desempenho personalizadas
-
-
-Em breve: link para repositório e demonstração
-
-Outros Projetos
-Estou constantemente desenvolvendo e aprimorando projetos que aplicam:
-
-Arquiteturas escaláveis e componentes reutilizáveis
-Integrações com APIs externas
-Autenticação segura com JWT
-Soluções baseadas em automação
-
-📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub Felipe" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&card_width=300" alt="Linguagens mais usadas" />
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>DevOps</b></td>
+      <td align="center"><b>Arquitetura</b></td>
+    </tr>
+    <tr>
+      <td>
+        ✅ React/Next.js<br>
+        ✅ JavaScript/TypeScript<br>
+        ✅ HTML5/CSS3
+      </td>
+      <td>
+        ✅ Node.js/Express<br>
+        ✅ MySQL/PostgreSQL<br>
+        ✅ JWT Authentication
+      </td>
+      <td>
+        ✅ Docker<br>
+        ✅ VPS Linux<br>
+        ✅ n8n Automações
+      </td>
+      <td>
+        ✅ MVC/MVVM<br>
+        ✅ REST APIs<br>
+        ✅ Kanban/Ágil
+      </td>
+    </tr>
+  </table>
 </div>
+
+## 🚀 Projeto Destaque: Kaizen
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Kaizen-Produtividade%20Gamificada%20com%20IA-brightgreen?style=for-the-badge" alt="Kaizen Project" />
+  
+  **Revolucionando produtividade com gamificação e IA**
+  
+  🎮 Sistema de recompensas | 🤖 Assistente IA | 📊 Análise de desempenho
 </div>
-📫 Contato
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="mailto:fcasagrandi38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/felipecasagrandi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/snowcasagrandi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
 <div align="center">
-  <i>"Código limpo não é apenas uma prática, é um compromisso com a excelência e respeito ao usuário final."</i>
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
+</div>
+
+## 🔗 Conexões
+
+<div align="center">
+  <a href="mailto:fcasagrandi38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/felipecasagrandi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/snowcasagrandi">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>💻 Código limpo. Soluções eficientes. Foco no usuário. 🚀</sub>
 </div>
