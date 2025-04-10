@@ -76,7 +76,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-Avançado-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Intermediário-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Avançado-339933?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IA_Integração-Em_Crescimento-FF6F00?style=for-the-badge" />
 </div>
 
