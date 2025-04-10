@@ -63,12 +63,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=onedark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecasagrandi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&hide_border=true&theme=default" />
 </div>
 
 ## 🔗 Connect With Me
