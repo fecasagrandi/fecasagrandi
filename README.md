@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Felipe Moreira Casagrandi</h1>
-  <h3>Desenvolvedor Full Stack | Estudante de ADS</h3>
+  <h3>Full Stack Developer | Systems Analysis Student</h3>
   
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -12,16 +12,15 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </div>
 
-
-## ⚡ Tecnologias
+## ⚡ Technologies
 
 <div align="center">
   <table>
     <tr>
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Outras Linguagens</b></td>
-      <td align="center"><b>DevOps & Arquitetura</b></td>
+      <td align="center"><b>Other Languages</b></td>
+      <td align="center"><b>DevOps & Architecture</b></td>
     </tr>
     <tr>
       <td>
@@ -44,8 +43,8 @@
         ✅ Docker<br>
         ✅ VPS Linux<br>
         ✅ MVC/MVVM<br>
-        ✅ n8n/Automações<br>
-        ✅ Kanban/Ágil
+        ✅ n8n/Automation<br>
+        ✅ Kanban/Agile
       </td>
     </tr>
   </table>
@@ -54,11 +53,11 @@
 ## 🚀 Side Project: Kaizen
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kaizen-Produtividade%20Gamificada%20com%20IA-brightgreen?style=for-the-badge" alt="Kaizen Project" />
+  <img src="https://img.shields.io/badge/Kaizen-Gamified_Productivity_with_AI-brightgreen?style=for-the-badge" alt="Kaizen Project" />
   
-  **Revolucionando produtividade com gamificação e IA**
+  **Revolutionizing productivity with gamification and AI**
   
-  🎮 Sistema de recompensas | 🤖 Assistente IA | 📊 Análise de desempenho
+  🎮 Reward System | 🤖 AI Assistant | 📊 Performance Analytics
 </div>
 
 ## 📊 GitHub Stats
@@ -72,20 +71,20 @@
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
 </div>
 
-## 💻 Experiência & Competências
+## 💻 Experience & Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Avançado-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Avançado-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IA_Integração-Em_Crescimento-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Advanced-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Integration-Growing-FF6F00?style=for-the-badge" />
 </div>
 
-- **Desenvolvimento Web Fullstack** com foco em interfaces React e APIs Node.js
-- **Sistemas gamificados** e arquiteturas orientadas ao usuário
-- **Integração com IA** (DeepSeek) para otimização de processos
-- **Automação de fluxos** com n8n e soluções customizadas
+- **Full Stack Web Development** focusing on React interfaces and Node.js APIs
+- **Gamified Systems** and user-oriented architectures
+- **AI Integration** (DeepSeek) for process optimization
+- **Workflow Automation** with n8n and custom solutions
 
-## 🔗 Conexões
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="mailto:fcasagrandi38@gmail.com">
@@ -105,5 +104,5 @@
 ---
 
 <div align="center">
-  <sub>💻 Código limpo. Soluções eficientes. Foco no usuário. 🚀</sub>
+  <sub>💻 Clean code. Efficient solutions. User-focused. 🚀</sub>
 </div>
