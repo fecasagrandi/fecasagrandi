@@ -5,11 +5,11 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 </div>
 
 > *"Evoluir sempre. Construir com propósito. Aprender todos os dias."*
@@ -21,8 +21,8 @@
     <tr>
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
-      <td align="center"><b>DevOps</b></td>
-      <td align="center"><b>Arquitetura</b></td>
+      <td align="center"><b>Outras Linguagens</b></td>
+      <td align="center"><b>DevOps & Arquitetura</b></td>
     </tr>
     <tr>
       <td>
@@ -33,16 +33,19 @@
       <td>
         ✅ Node.js/Express<br>
         ✅ MySQL/PostgreSQL<br>
+        ✅ PHP<br>
         ✅ JWT Authentication
+      </td>
+      <td>
+        ✅ Java<br>
+        ✅ C++<br>
+        ✅ SQL
       </td>
       <td>
         ✅ Docker<br>
         ✅ VPS Linux<br>
-        ✅ n8n Automações
-      </td>
-      <td>
         ✅ MVC/MVVM<br>
-        ✅ REST APIs<br>
+        ✅ n8n/Automações<br>
         ✅ Kanban/Ágil
       </td>
     </tr>
@@ -69,6 +72,19 @@
 <div align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fecasagrandi&theme=dark&hide_border=true" />
 </div>
+
+## 💻 Experiência & Competências
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-Avançado-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Intermediário-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA_Integração-Em_Crescimento-FF6F00?style=for-the-badge" />
+</div>
+
+- **Desenvolvimento Web Fullstack** com foco em interfaces React e APIs Node.js
+- **Sistemas gamificados** e arquiteturas orientadas ao usuário
+- **Integração com IA** (DeepSeek) para otimização de processos
+- **Automação de fluxos** com n8n e soluções customizadas
 
 ## 🔗 Conexões
 
