@@ -12,7 +12,6 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </div>
 
-> *"Evoluir sempre. Construir com propósito. Aprender todos os dias."*
 
 ## ⚡ Tecnologias
 
