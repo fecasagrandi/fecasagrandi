@@ -51,7 +51,7 @@
   </table>
 </div>
 
-## 🚀 Projeto Destaque: Kaizen
+## 🚀 Side Project: Kaizen
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kaizen-Produtividade%20Gamificada%20com%20IA-brightgreen?style=for-the-badge" alt="Kaizen Project" />
