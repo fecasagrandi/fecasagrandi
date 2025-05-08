@@ -68,7 +68,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fecasagrandi&label=Profile%20views&color=0e75b6&style=flat" alt="fecasagrandi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fecasagrandi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🔗 Connect With Me
 
