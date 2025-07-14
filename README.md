@@ -1,89 +1,34 @@
-<div align="center">
-  <h1>Felipe Moreira Casagrandi</h1>
-  
-  <h3>Full Stack Developer | Systems Analysis Student</h3>
-  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felipe Casagrandi
+=========================================================================================================================================
 
-## ⚡ Technologies
+Junior Software Developer
+-------------------------
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Other Languages</b></td>
-      <td align="center"><b>DevOps & Architecture</b></td>
-    </tr>
-    <tr>
-      <td>
-        ✅ React/Next.js<br>
-        ✅ JavaScript/TypeScript<br>
-        ✅ HTML5/CSS3
-      </td>
-      <td>
-        ✅ Node.js/Express<br>
-        ✅ MySQL/PostgreSQL<br>
-        ✅ PHP<br>
-        ✅ JWT Authentication
-      </td>
-      <td>
-        ✅ Java<br>
-        ✅ C++<br>
-        ✅ SQL
-      </td>
-      <td>
-        ✅ Docker<br>
-        ✅ VPS Linux<br>
-        ✅ MVC/MVVM<br>
-        ✅ n8n/Automation<br>
-        ✅ Kanban/Agile
-      </td>
-    </tr>
-  </table>
-</div>
+I'm a junior developer from Brazil, currently finishing my degree in Systems Analysis and Development. I've been coding since I was young and always aim to improve my skills every day.
 
-## 🚀 Side Project: Kaizen
+My focus is on building practical, high-quality software using modern tools like React, Next.js, MySQL, and automation tools like n8n.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Kaizen-Gamified_Productivity_with_AI-brightgreen?style=for-the-badge" alt="Kaizen Project" />
-  
-  **Revolutionizing productivity with gamification and AI**
-  
-  🎮 Reward System | 🤖 AI Assistant | 📊 Performance Analytics
-</div>
+I'm constantly seeking professional growth and love to work on challenging projects that make a real impact.
 
-## 📊 GitHub Stats
+* 🌍  I'm based in Brazil
+* 🖥️  See my portfolio at [Kaizen | NLW - Agents | Landing Pages](http://github.com/fecasagrandi?tab=repositories)
+* ✉️  You can contact me at [fcasagrandi100@gmail.com](mailto:fcasagrandi100@gmail.com)
+* 🧠  I'm learning Next.js (and mastering React fundamentals)
+* 🤝  I'm open to collaborating on Innovative and impactful projects — especially in automation, dashboards, or task management tools.
+* ⚡  I code like a hero
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fecasagrandi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
+### Skills
 
-## 🔗 Connect With Me
 
-<div align="center">
-  <a href="mailto:fcasagrandi38@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/felipecasagrandi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/snowcasagrandi">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
+</p>
 
-<div align="center">
-  <sub>💻 Clean code. Efficient solutions. User-focused. 🚀</sub>
-</div>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/fecasagrandi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/felipecasagrandi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+### Badges
+
+<a href="https://github.com/fecasagrandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecasagrandi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
