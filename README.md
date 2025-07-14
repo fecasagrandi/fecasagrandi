@@ -15,7 +15,6 @@ I'm constantly seeking professional growth and love to work on challenging proje
 * ✉️  You can contact me at [fcasagrandi100@gmail.com](mailto:fcasagrandi100@gmail.com)
 * 🧠  I'm learning Next.js (and mastering React fundamentals)
 * 🤝  I'm open to collaborating on Innovative and impactful projects — especially in automation, dashboards, or task management tools.
-* ⚡  I code like a hero
 
 ### Skills
 
