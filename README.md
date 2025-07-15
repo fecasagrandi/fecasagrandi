@@ -1,7 +1,6 @@
 ![welcome-header](https://github.com/user-attachments/assets/997f45a4-b3f1-43b1-b54a-4ce5b0597f17)
 
 Hi ! My name is Felipe Casagrandi
-![party-furby](https://github.com/user-attachments/assets/6a2155db-fceb-4222-b8c7-8ef6f549c98c)
 =========================================================================================================================================
 
 Junior Software Developer
