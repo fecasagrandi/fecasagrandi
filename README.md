@@ -4,7 +4,7 @@ Hi ! My name is Felipe Casagrandi
 Junior Software Developer
 -------------------------
 
-I'm a junior developer from Brazil, currently finishing my degree in Systems Analysis and Development. I've been coding since I was young and always aim to improve my skills every day.
+I'm a developer from Brazil, currently finishing my degree in Systems Analysis and Development. I've been coding since I was young and always aim to improve my skills every day.
 
 My focus is on building practical, high-quality software using modern tools like React, Next.js, MySQL, and automation tools like n8n.
 
