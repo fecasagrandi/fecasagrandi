@@ -1,7 +1,7 @@
 Hi ! My name is Felipe Casagrandi
 =========================================================================================================================================
 
-Junior Software Developer
+Software Developer
 -------------------------
 
 I'm a developer from Brazil, currently finishing my degree in Systems Analysis and Development. I've been coding since I was young and always aim to improve my skills every day.
