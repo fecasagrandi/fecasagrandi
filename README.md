@@ -1,4 +1,4 @@
-# Hi! I'm Felipe Casagrandi 🚀
+# Hi! I'm Felipe Casagrandi
 
 **Full-stack Developer | Data Engineering & Automation**
 
