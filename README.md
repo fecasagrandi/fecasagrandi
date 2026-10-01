@@ -62,7 +62,7 @@ My background in development is not a detour. It's the reason I'm effective as a
 
 ### Contact
 
-📧 fcasagrandi100@gmail.com
+📧 fcasagrandi38@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/)
 🌍 Brazil · Remote
 
