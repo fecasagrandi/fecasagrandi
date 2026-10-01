@@ -21,7 +21,7 @@ My background in development is not a detour. It's the reason I'm effective as a
 - API consumption and process automation with n8n
 - Claude Code as my AI tool in daily development
 
-**Kaizen** (capstone project) — built with NestJS, Prisma and Next.js
+**Kaizen** (capstone project): built with NestJS, Prisma and Next.js
 
 ---
 
@@ -66,4 +66,4 @@ My background in development is not a detour. It's the reason I'm effective as a
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-casagrandi-88a7012a7/)
 🌍 Brazil · Remote
 
-> Freelance engagements only. Authorized targets only.
+> Open to backend roles (PJ). Security work on authorized targets only.
